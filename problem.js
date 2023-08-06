@@ -205,7 +205,56 @@ totalPapers=paperRequirments(100,200,300);{
 }
 
 
+// var myScores=39;
+// var tom=66;
+// var jane=66;
+// var peter=95;
+// var jhon=56;
 
+// // mysc
+// if(myScores>=80){
+//     console.log('i have got "A" ')
+
+// }
+// else if(myScores>=60)
+// {
+//     console.log('I have got "B"')
+// }
+// else if(myScores>=50)
+// {
+//     console.log('I have got "c"')
+// }
+// else if(myScores>=40)
+// {
+//     console.log('I have got "D"')
+// }
+// else{
+//     console.log('i have got F')
+// }
+
+// console.log('hello')
+// console.log('hello')
+// console.log('hello')
+// console.log('hello')
+// console.log('hello')
+// console.log('hello')
+// var num=0
+// while(num<5){
+//     console.log('hello')
+//     num=num++
+// var number =0;
+// while(number <= 10){
+//     console.log(number);
+//     number++;
+// }
+// for(var i=0; i <7; i++){
+//     console.log(i=i++)
+// }
+var num=1;
+while(num <5);{
+    console.log("hello")
+    num=num+1
+}
 
 
 
